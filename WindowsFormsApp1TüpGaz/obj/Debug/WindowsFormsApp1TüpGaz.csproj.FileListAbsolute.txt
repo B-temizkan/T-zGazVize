@@ -1,0 +1,14 @@
+C:\Users\acr\source\repos\WindowsFormsApp1TüpGaz\WindowsFormsApp1TüpGaz\bin\Debug\WindowsFormsApp1TüpGaz.exe.config
+C:\Users\acr\source\repos\WindowsFormsApp1TüpGaz\WindowsFormsApp1TüpGaz\bin\Debug\WindowsFormsApp1TüpGaz.exe
+C:\Users\acr\source\repos\WindowsFormsApp1TüpGaz\WindowsFormsApp1TüpGaz\bin\Debug\WindowsFormsApp1TüpGaz.pdb
+C:\Users\acr\source\repos\WindowsFormsApp1TüpGaz\WindowsFormsApp1TüpGaz\obj\Debug\WindowsFormsApp1TüpGaz.csprojAssemblyReference.cache
+C:\Users\acr\source\repos\WindowsFormsApp1TüpGaz\WindowsFormsApp1TüpGaz\obj\Debug\WindowsFormsApp1TüpGaz.Form1.resources
+C:\Users\acr\source\repos\WindowsFormsApp1TüpGaz\WindowsFormsApp1TüpGaz\obj\Debug\WindowsFormsApp1TüpGaz.Form2.resources
+C:\Users\acr\source\repos\WindowsFormsApp1TüpGaz\WindowsFormsApp1TüpGaz\obj\Debug\WindowsFormsApp1TüpGaz.Form3.resources
+C:\Users\acr\source\repos\WindowsFormsApp1TüpGaz\WindowsFormsApp1TüpGaz\obj\Debug\WindowsFormsApp1TüpGaz.Form4.resources
+C:\Users\acr\source\repos\WindowsFormsApp1TüpGaz\WindowsFormsApp1TüpGaz\obj\Debug\WindowsFormsApp1TüpGaz.Properties.Resources.resources
+C:\Users\acr\source\repos\WindowsFormsApp1TüpGaz\WindowsFormsApp1TüpGaz\obj\Debug\WindowsFormsApp1TüpGaz.csproj.GenerateResource.cache
+C:\Users\acr\source\repos\WindowsFormsApp1TüpGaz\WindowsFormsApp1TüpGaz\obj\Debug\WindowsFormsApp1TüpGaz.exe
+C:\Users\acr\source\repos\WindowsFormsApp1TüpGaz\WindowsFormsApp1TüpGaz\obj\Debug\WindowsFormsApp1TüpGaz.pdb
+C:\Users\acr\source\repos\WindowsFormsApp1TüpGaz\WindowsFormsApp1TüpGaz\obj\Debug\WindowsFormsApp1TüpGaz.Form5.resources
+C:\Users\acr\source\repos\WindowsFormsApp1TüpGaz\WindowsFormsApp1TüpGaz\obj\Debug\WindowsFormsApp1TüpGaz.Form6.resources
